@@ -1,0 +1,15 @@
+Crea un nuevo documento HTML que cumpla los siguientes parámetros:
+•	Debe estar dividido en tres secciones (etiqueta)
+•	Condiciones para la primera sección
+o	Debe tener un título (h1) indicando "Aprendiendo a utilizar imágenes"
+o	Debes incluir una imagen de tu videojuego favorito
+•	Condiciones para la segunda sección
+o	Debe tener un título (h1) indicando "Aprendiendo a utilizar los vídeos"
+o	Descárgate cualquier vídeo de youtube
+o	Debes incluir una etiqueta de vídeo que reproduzca el vídeo que acabas de descargar
+o	El vídeo debe mostrar los controles, reproducirse automáticamente y en bucle, PERO inicialmente debe estar sin sonido
+•	Condiciones para la tercera sección
+o	Debe tener un título (h1) indicando "Aprendiendo a utilizar los audios"
+o	Descárgate cualquier audio de una canción de youtube
+o	Debes incluir una etiqueta de audio que reproduzca el audio que acabas de descargar
+o	El audio debe mostrar los controles, reproducirse automáticamente y en bucle
